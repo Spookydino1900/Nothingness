@@ -1,0 +1,19 @@
+{
+  "name": "toothless-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "relevant-urban": "^2.0.0",
+    "superagent": "^5.1.0"
+  }
+}
